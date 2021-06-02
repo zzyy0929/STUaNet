@@ -11,4 +11,4 @@ Model Accuracy:
 MSE: 2.942~3.210
 MAPE: 16.56%~23.35%
 
-Title: STUaNet: Understanding uncertainty in spatiotemporal collective human mobility
+# Paper Title: STUaNet: Understanding uncertainty in spatiotemporal collective human mobility
